@@ -1,6 +1,6 @@
 {
   "name": "f_translator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "translator for the development of frontend projects",
   "main": "dist/",
   "author": "foxxy",

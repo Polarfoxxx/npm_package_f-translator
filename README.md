@@ -1,7 +1,7 @@
 # Foxxy_input_value
 ---
 __Názov balíčka:__ f_translator  
-__Popis:__ Prekladac pre vyvoj frontend projektov
+__Popis:__ Prekladac pre vyvoj frontend projektov   
 __Inštalácia:__ [npm i f_translator](https://www.npmjs.com/package/f_translator)  
 __Licencia:__ MIT  
 __Email:__ suchovsky.michal@gmail.com  
